@@ -301,7 +301,19 @@ Features:
 *  Cloud database integration
 
 ---
+## Results
+<img width="1202" height="629" alt="Screenshot 2026-03-23 144135" src="https://github.com/user-attachments/assets/f445d1bb-a492-4d5d-9a0b-2a536690e5cf" />
+<img width="1767" height="886" alt="Screenshot 2026-03-23 151050" src="https://github.com/user-attachments/assets/fd282866-ffd6-4365-b98d-2c3aea81e168" />
+<img width="336" height="779" alt="Screenshot 2026-03-23 151238" src="https://github.com/user-attachments/assets/2620930c-1d86-47fd-a5d2-2fc89767d9e4" />
+<img width="1919" height="556" alt="Screenshot 2026-03-23 151250" src="https://github.com/user-attachments/assets/fb1a2d86-fad5-4973-bbf7-8a06346d201a" />
+<img width="978" height="797" alt="Screenshot 2026-03-23 151410" src="https://github.com/user-attachments/assets/e9038a89-08ec-42ff-8697-f90b4bd7183f" />
+<img width="570" height="732" alt="Screenshot 2026-03-23 151420" src="https://github.com/user-attachments/assets/3643965f-f045-4879-a125-f3876c0f2ec8" />
+<img width="576" height="477" alt="Screenshot 2026-03-23 151431" src="https://github.com/user-attachments/assets/cd7e5d12-697c-4883-9d59-932fbeba7003" />
+<img width="590" height="666" alt="Screenshot 2026-03-23 151440" src="https://github.com/user-attachments/assets/39d25a23-24c8-4e1d-a836-297734444aa8" />
+<img width="556" height="200" alt="Screenshot 2026-03-23 151451" src="https://github.com/user-attachments/assets/f7233047-9591-47e2-974d-1491eb74fb77" />
+<img width="525" height="638" alt="Screenshot 2026-03-23 151509" src="https://github.com/user-attachments/assets/a09b291b-ec0f-49c4-84b4-3ff9acc67d3b" />
 
+---
 # 👨 Author
 
 **Manoj PM**
